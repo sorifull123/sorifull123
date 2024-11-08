@@ -5,6 +5,8 @@
 - 👑 I am Android App Developer
 - 💻 Love to write code
 - 📚 Like to share my knowledge
+[![Follow @shovoalways](https://img.shields.io/badge/Follow-%40shovoalways-grey?style=flat-square)](https://github.com/sorifull123)
+
 
 Follow me on [GitHub](https://github.com/sorifull123) |
 Connect on [LinkedIn](https://www.linkedin.com/in/md-soriful-hasan-53a9b52b3/)
