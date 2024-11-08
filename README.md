@@ -30,4 +30,6 @@ I'm a skilled  Mobile App Developer passionate about creating error-free website
 <a href="https://instagram.com/isorifulhasan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/md-soriful-hasan-53a9b52b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+### 📧 For Business Inquiries
+<a href="mailto:shovoalways@gmail.com">sorifullhasan300@gmail.com</a>
 
