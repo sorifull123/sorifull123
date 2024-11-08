@@ -21,3 +21,6 @@ I'm a skilled  Mobile App Developer passionate about creating error-free website
 - ✅ API Integration
 - ✅ MySQL/Firebase
 - ✅ Figma
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sorifull123&layout=compact)
+
