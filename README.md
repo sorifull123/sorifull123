@@ -27,7 +27,6 @@ I'm a skilled  Mobile App Developer passionate about creating error-free mobile 
 ### 🌐 Connect with me!
 <a href="https://facebook.com/sorifulhasan11" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/@hasan_soriful" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/isorifulhasan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/md-soriful-hasan-53a9b52b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 📧 For Business Inquiries
